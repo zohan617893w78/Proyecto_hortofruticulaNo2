@@ -4,3 +4,12 @@
   font-family: 'Open Sans', sans-serif;
   
 }
+
+.Contenedor{
+  border: solid 1px black;
+  width: 100%;
+  max-width: 1000px;
+  margin:auto;
+  box-sizing: border-box;
+  overflow: hidden;
+}
