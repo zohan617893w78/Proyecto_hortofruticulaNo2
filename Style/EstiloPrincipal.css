@@ -7,7 +7,7 @@
 .Contenedor{
   border: solid 1px black;
   width: 100%;
-  max-width: 1000px;
+  max-width:1000px;
   margin:auto;
   box-sizing: border-box;
   overflow: hidden;
