@@ -36,3 +36,13 @@
   top: 70px;
   left: 235px;
   }
+
+.nav{
+ margin: 10px 10px 0 0;
+ position: unset;
+ background: none;
+ height: auto;
+ width: unset;
+ border:none;
+}
+   
