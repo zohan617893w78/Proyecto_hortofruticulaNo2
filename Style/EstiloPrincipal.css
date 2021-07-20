@@ -50,5 +50,12 @@
  background: #E4651D;
  color: white;
  padding: 5px;
- border_radius: 3px;
+ border-radius: 3px;
+}
+
+.nav_link_palote {
+ background: #60C932;
+ color: white;
+ padding: 5px;
+ border-radius: 3px;
 }
