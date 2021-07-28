@@ -6,7 +6,7 @@
 
 .Contenedor{
   border: solid 1px black;
-  width: 100%;
+  width: 120%;
   max-width:1000px;
   margin:auto;
   box-sizing: border-box;
