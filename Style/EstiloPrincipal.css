@@ -76,3 +76,11 @@
   justify-content: center;
   align-items: center;
 }
+
+
+.galeria_lienzo{
+  width: 600px;
+  height: 350px;
+  overflow: hidden;
+}
+  
