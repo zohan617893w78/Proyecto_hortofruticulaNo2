@@ -103,3 +103,24 @@
 .elemento3:checked ~ .galeria_contenedor {
   transform: translateX(-1200px);
 }
+
+.controles {
+  width: 100%;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -26px;
+}
+
+
+label{
+  margin: 5px;
+  width: 20px;
+  height: 20px;
+  border-radius: 100px;
+  background: green;
+  display: block;
+  cursor: pointer;
+}
+
