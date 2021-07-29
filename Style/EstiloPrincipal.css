@@ -93,13 +93,13 @@
 }
 
 .elemento1:checked ~ .galeria_contenedor {
-  transform: translatex(0px);
+  transform: translateX(0px);
 }
 
 .elemento2:checked ~ .galeria_contenedor {
-  transform: translatex(-600px);
+  transform: translateX(-600px);
 }
 
 .elemento3:checked ~ .galeria_contenedor {
-  transform: translatex(-1200px);
+  transform: translateX(-1200px);
 }
