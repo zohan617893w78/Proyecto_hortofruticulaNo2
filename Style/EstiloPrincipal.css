@@ -114,6 +114,9 @@
 }
 
 
+
+
+
 label{
   margin: 5px;
   width: 20px;
@@ -123,4 +126,17 @@ label{
   display: block;
   cursor: pointer;
 }
+
+
+-------------------------------MODULOS------------------------------
+
+.tienda{
+  display: grid;
+  grid-template: repeat(3, 300px) / repeat(3, 300pc);
+  justify-content: center;
+  grip-gap: 16px;
+  width: 100%;
+  height: auto;
+}
+
 
