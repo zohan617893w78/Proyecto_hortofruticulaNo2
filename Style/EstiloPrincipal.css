@@ -134,7 +134,7 @@ label{
   display: grid;
   grid-template: repeat(3, 300px) / repeat(3, 300px);
   justify-content: center;
-  grid-grap:16px;
+  grid-gap:16px;
   width: 100%;
   height: auto; 
   
