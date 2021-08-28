@@ -131,12 +131,12 @@ label{
 -------------------------------MODULOS------------------------------
 
 .tienda{
-  display: grid;
-  grid-template: repeat(3, 500px) / repeat(3, 500px);
+  display:grid;
+  grid-template:repeat(3, 300px) / repeat(3, 300px);
   justify-content: center;
   grid-gap:16px;
-  width: 100%;
-  height: auto; 
+  width:100%;
+  height:auto; 
   
   
 }
