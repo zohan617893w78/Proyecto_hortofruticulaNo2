@@ -136,7 +136,9 @@ label{
   justify-content: center;
   grid-grap:16px;
   width: 100%;
-  height: auto;
+  height: auto; 
+  
+  
 }
 
 .tienda article {
