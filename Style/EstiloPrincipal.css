@@ -180,6 +180,23 @@ label{
 
 
 
+/*-------------------------------------pie de pagina--------------------*/
+
+.espacio{
+  position: relative;
+  height: 20px;
+}
+
+.PiePagina {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  height: 105px;
+  background: #E4651D;
+  align-content:center;
+}
+
+
   
 
 
