@@ -216,3 +216,43 @@ label{
 
 
 
+@media screen and (max-width: 600px){
+  
+  .cabecera {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 130px;
+  }
+  
+  .cabecera figure {
+    width:130px;
+    margin:auto;
+  }
+  
+  .cabecera img{
+    width:95px;
+    height:80px;
+  }
+  
+  .cabecera h1 {
+    position: absolute;
+    top: 70px;
+    left: 100px;
+  }
+  
+  
+  .nav {
+    display:none;
+  }
+  
+  
+}
+
+
+   
+    
+    
+
+
+
