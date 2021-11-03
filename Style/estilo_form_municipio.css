@@ -1,0 +1,95 @@
+* {
+ box-sizing:border-box;
+  
+}
+
+
+body {
+ margin:0;
+ font-family:sans-serif;
+ background:#204862
+}
+
+.contenedor {
+ color: #fff;
+ text-align: center;
+}
+
+.form-municpio{
+ width:60%;
+ max-width: 500px;
+ margin: auto;
+ background: #d6e6ed;
+ border-radius: 7px;
+}
+
+.titulo-form-municipio {
+ background: #4E94AB;
+ color: #fff;
+ padding: 8px;
+ text-align: center;
+ font-weight: 100px;
+ font-size: 30px;
+ border-top-left-radius: 7px;
+ border-top-right-radius: 7px;
+ border-bottom: 10px solid crimson;
+
+}
+
+.contenedor-input {
+ padding: 5px 10px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+
+}
+
+.tabla-municipios {
+ text-align:left;
+ border: 1px solid darkgray;
+ width: 100%;
+}
+
+.Tabla_botones {
+ text-align:center;
+ border: 1px solid darkgray;
+ 
+}
+
+.input-50 {
+width: 50%;
+}
+
+.btn-insertar {
+ background: crimson;
+ color: #fff;
+ margin: auto;
+ padding: 10px 40px;
+ cursor: pointer;
+ border-radius: 7px;
+}
+
+
+
+.btn-insertar: hover {
+transform: scale (1.5);
+ 
+}
+
+
+
+.tienda article: hover {
+	
+transform: scale (1.5);
+ 	
+}
+
+.btn-insertar: active {
+ transform: scale(1.05);
+}
+
+
+
+
+
+
